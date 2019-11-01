@@ -9,5 +9,5 @@ Backend development = Vim (or whatever you want, it doesn't matter to me. Vim is
 Design platform/s = gridpaint, paint.net
 Collaboration = Git, Gitkracken, VSCode live share extension
 Languages:
-     Backend = Python
+     Backend = Python, Bash
      Frontend = C#
