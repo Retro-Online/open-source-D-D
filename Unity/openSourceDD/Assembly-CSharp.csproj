@@ -45,7 +45,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>     <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\Item.cs" />
      <Compile Include="Assets\Scripts\movement.cs" />
+     <Compile Include="Assets\Scripts\Slot.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Jax45321/Documents/Open sourve d&amp;D game/open-soure-D-D/Unity/openSourceDD/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
