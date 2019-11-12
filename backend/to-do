@@ -1,1 +1,7 @@
 Automate backups
+Get a frontend to talk to the server:
+    * JSON!
+    * Get some form of communication to the server in a way that can be integrated quickly with low latency
+    * Make a pretty frontend with a text box and a button to submit the thing to the server
+    * get some communication with the server so we can fetch data from it
+    * Make a pretty frontend with a text box and a fetch button
