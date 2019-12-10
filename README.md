@@ -1,4 +1,4 @@
-# open-soure-D-D
+# open-source-D-D
 the game 
 # Contributors
 Brayton Kerekffy
