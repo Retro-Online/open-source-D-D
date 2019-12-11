@@ -2,6 +2,11 @@
 the game 
 # Contributors
 Brayton Kerekffy
+Josiah Armstrong
+Kevin Lockwood
+Blake Bryan
+Matt T
+
 # Dev Team Software Recommendations
 IDE = Visual Studio Code
 
