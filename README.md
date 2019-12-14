@@ -5,7 +5,9 @@ Brayton Kerekffy
 Josiah Armstrong
 Kevin Lockwood
 Blake Bryan
-Matt T
+Matt Tiemersma
+Zach Heath
+Luke Gantar
 
 # Dev Team Software Recommendations
 IDE = Visual Studio Code
